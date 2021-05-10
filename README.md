@@ -1,4 +1,11 @@
 # 个人信息
+- 微信 : zhengkokoo
+- 邮件 : zheng_keke@126.com
+- [kaiguoyuanshuai](https://github.com/kaiguoyuanshuai/kaiguoyuanshuai)
+
+# 个人履历 
+
+
 
 
 <!--
